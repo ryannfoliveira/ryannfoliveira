@@ -12,6 +12,3 @@ Estou perto de terminar o Ensino Médio, e por isso resolvi me adiantar e pensar
 
 🌱 Em construção
 Este espaço está em **constante aprimoramento**, e em breve pretendo trazer as novas ferramentas que estou aprendendo ou vou aprender.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannfoliveira&layout=compact)
