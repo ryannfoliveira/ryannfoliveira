@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá 👋
+Meu nome é Ryann e sou estudante de Ciência de Dados e Machine Learning. Sou **iniciante**, mas quero me aprofundar na área.
+Estou perto de terminar o Ensino Médio, e por isso resolvi me adiantar e pensar no meu futuro mais detalhadamente.
 
-<!--
-**ryannfoliveira/ryannfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre mim
+📍 Local: Sergipe, Brasil
+🔧 Ferramentas que uso (quero que essa lista esteja em constante expansão):
+- Python 🐍
+- Jupyter Notebook, Google Colab e VS Code 💻
+- Aprendendo atualmente bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Plotly
+- Resolvi iniciar meu aprendizado por dados, mas brevemente pretendo começar a ver IA e Machine Learning 
 
-Here are some ideas to get you started:
+🌱 Em construção
+Este espaço está em **constante aprimoramento**, e em breve pretendo trazer as novas ferramentas que estou aprendendo ou vou aprender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannfoliveira&layout=compact)
