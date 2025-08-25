@@ -12,4 +12,5 @@ Estou perto de terminar o Ensino Médio, e por isso resolvi me adiantar e pensar
 - Resolvi iniciar meu aprendizado por dados, mas brevemente pretendo começar a ver IA e Machine Learning 
 
 🌱 Em construção
+
 Este espaço está em **constante aprimoramento**, e em breve pretendo trazer as novas ferramentas que estou aprendendo ou vou aprender.
