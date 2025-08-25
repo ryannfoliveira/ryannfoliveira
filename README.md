@@ -1,9 +1,10 @@
-## Olá 👋
+# Olá 👋
 Meu nome é Ryann e sou estudante de Ciência de Dados e Machine Learning. Sou **iniciante**, mas quero me aprofundar na área.
 Estou perto de terminar o Ensino Médio, e por isso resolvi me adiantar e pensar no meu futuro mais detalhadamente.
 
-#### Sobre mim
+### Sobre mim
 📍 Local: Sergipe, Brasil
+
 🔧 Ferramentas que uso (quero que essa lista esteja em constante expansão):
 - Python 🐍
 - Jupyter Notebook, Google Colab e VS Code 💻
