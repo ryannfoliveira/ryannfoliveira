@@ -14,3 +14,5 @@ Estou perto de terminar o Ensino Médio, e por isso resolvi me adiantar e pensar
 🌱 Em construção
 
 Este espaço está em **constante aprimoramento**, e em breve pretendo trazer as novas ferramentas que estou aprendendo ou vou aprender.
+
+![Snake animation](https://github.com/ryannfoliveira/ryannfoliveira/blob/output/github-contribution-grid-snake.svg)
