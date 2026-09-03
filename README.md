@@ -28,8 +28,8 @@ em um formato de pirâmide invertida.
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-f7f7f7?style=for-the-badge&logo=scikitlearn&logoColor=f7f7f7&color=DD2727)](https://imbalanced-learn.org/stable/index.html)
 [![Scrapy](https://img.shields.io/badge/Scrapy-20A8E3?style=for-the-badge&logo=scrapy&logoColor=white)](https://docs.scrapy.org/)
-
-(Não me sinto merecedor de colocar aqui outras coisas nas quais tenho menos conhecimento)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Curiosidade nada interessante ⏪
 Já uso uma distro Linux desde antes de me decidir a entrar na área de computação.
