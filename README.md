@@ -1,10 +1,9 @@
 # Olá, confrades e consórores! 🇦🇶
 
 ## Sobre mim
-Meu nome é Ryann e sou estudante de Ciência de Dados e Machine Learning. Sou **iniciante**, mas quero me aprofundar na área.
-Estou perto de terminar o Ensino Médio, e por isso resolvi começar a tentar me posicionar no contexto profissional que desejo objetivando estar mais adiantado.
-O meu plano de estudos, no momento, consiste em me introduzir aos temas básicos (os fundamentos amplos), e me desenvolver um pouco em cada um, para depois então me aprofundar
-em um formato de pirâmide invertida.
+Meu nome é Ryann e sou estudante de Ciência de Dados e Machine Learning. Tenho desejo real de me aprofundar continuamente na área, não como erudição de gaveta ou decoreba mecânico que não compreende o que está realmente fazendo. Muito pelo contrário, quero fazer um estrago (positivo). Perdão pela paráfrase tosca, mas... sempre quis fazer as coisas se moverem e vejo isso como uma oportunidade.
+
+Estou perto de terminar o Ensino Médio, e por isso resolvi tentar me posicionar no contexto profissional que desejo objetivando estar mais adiantado.
 
 ## 🧰 Stack
 
